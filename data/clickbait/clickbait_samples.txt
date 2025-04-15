@@ -1,0 +1,74 @@
+K789pLmN654;anniu;PlayNow;HomePage;New Banner;Offer; 点击得手办；dianji;lootBox
+XyZ321;wupin;Info;Cover;Label; 点击获奖品；speedRacer;reward
+导航栏；nav_bar;btn_explore;NavLink; 这里赢奖励；skyJump;prize
+ScrollView;pop_up;steps;PrizePool;btn_forward; 完成领金币；fireBall;coins
+BaseLayer;title_bar;AddFeature;CloseBtn;ShadowBg; 添加拿宝石；cloudNine;gem
+Carousel;btn_claim;pop_up;steps;PrizePool; 领充值福利；redPanda;bonus
+btn_claim;pop_up;PrizePool;pop_up_bg;btn_join; 免费获取金币；flashLight;gold
+glow;txt;btn_skip;TopPanel;ChestView; 点击抽神器；silverWolf;treasure
+glow;btn_tweet;txt;ChestView;TopPanel; 分享赢符文；thunderStorm;rune
+phase;phase;shield;box;sparkle;phase; 阶段得宠物；icePhoenix;pet
+crate;heading;tipLabel;Panel;btn_stream; 领礼包；darkKnight;gift
+R456qRsT789;anniu;QuitGame;MainMenu;New Notice;Reward; 礼包；blackHole;pack
+AbC123;wupin;Detail;Masking;NameTag; 参与抽奖;whiteTiger;draw
+侧边导航；side_nav;btn_dive;NavOption; 分享礼物双倍奖励;spaceWalker;double
+SliderView;pop_up;levels;RewardHub;btn_next; 关卡领钻石；sunsetGlow;diamond
+CoreLayer;title_bar;AddShortcut;CloseIcon;BlurBg; 添加拿道具；moonShadow;item
+Gallery;btn_collect;pop_up;levels;RewardHub; 收集领勋章；starDust;medal
+btn_collect;pop_up;RewardHub;pop_up_bg;btn_ally; 结盟赢资源；oceanWave;resource
+shine;note;btn_ignore;UpperPanel;TreasureView; 点击抽装备；forestGuardian;equip
+shine;btn_sharefb;note;TreasureView;UpperPanel; 点击赢材料；desertFox;material
+stage;stage;veil;box;glitter;stage; 阶段拿经验卡；silentEagle;exp
+trunk;caption;hintLabel;Pane;btn_podcast; 收听领礼包；ironFist;box
+M234nOpQ567;anniu;StartQuest;GameLobby;New Popup;Bonus; 开启赢奖励；goldenKey;award
+DeF890;wupin;Specs;Covering;Tag; 投票得道具；crimsonDawn;vote
+顶部导航；top_nav;btn_discover;NavItem; 点击赢奖励；frostGiant;win
+PagerView;pop_up;points;RewardZone;btn_advance; 积分领大奖；shadowWolf;jackpot
+InnerLayer;title_bar;AddWidget;CloseMark;FrostBg; 添加拿道具；emeraldEye;tool
+Album;btn_gather;pop_up;points;RewardZone; 收集领礼包；rubyHeart;chest
+btn_gather;pop_up;RewardZone;pop_up_bg;btn_coop; 合作赢宝箱；sapphireSky;crate
+flicker;text;btn_pass;TopSection;ChestVault; 点击抽武器；midnightOwl;weapon
+btn_tumblr;text;ChestVault;TopSection; 免费礼品;dawnBreaker;free
+phase;phase;curtain;box;glimmer;phase; 阶段得宠物蛋；silverSerpent;egg
+chest;title;infoLabel;Paneling;btn_webinar; 领高级礼包；crimsonFang;vip
+任务推荐；btn_suggest; 奖品在这里；crystalRose;here
+G678hIjK901;anniu;ResumeJourney;GameStart;New Prompt;BonusPack; 继续赢礼包；thunderClap;more
+GhI234;wupin;Stats;Masker;Nameplate; 竞猜得大奖；thunderBird;guess
+bottom_nav;btn_uncover;NavChoice; 点击宝箱领取奖励；stormChaser;open
+SwipeView;pop_up;ranks;RewardCenter;btn_proceed;排名领奖励;ironClad;rank
+OuterLayer;title_bar;AddApplet;CloseBadge;MistBg;点击解锁新道具;goldenAegis;unlock
+GalleryView;btn_amass;pop_up;ranks;RewardCenter;积累领勋章;frostBlade;badge
+btn_amass;pop_up;RewardCenter;pop_up_bg;btn_partner;合作赢资源;shadowStalker;team
+shimmer;line;btn_skipover;UpperPart;TreasureChamber;点击抽装备;emberSpark;gear
+shimmer;btn_linkedin;line;TreasureChamber;UpperPart;额外奖励;nightHawk;extra
+stage;stage;screen;box;spark;stage;阶段拿技能书;silverFang;skill
+locker;heading;tipText;Paneling;btn_pod;订阅领道具;crimsonTide;sub
+隐藏活动；btn_hidden;参与赢惊喜;obsidianFang;event
+J345kLmN678;anniu;ResumeJourney;GameStart;New Prompt;BonusPack;继续赢礼包;thunderClap;again
+JkL567;wupin;Details;CoverPlate;TagLabel;即刻得宝物;frostWarden;now
+左侧导航；left_nav;btn_expose;NavOption;点击获奖励;ironWill;click
+DragView;pop_up;scores;RewardPool;btn_continue;分数领大奖;emberGuardian;score
+MiddleLayer;title_bar;AddPlugin;CloseIcon;HazeBg;添加拿大奖;shadowRealm;big
+btn_accumulate;pop_up;RewardPool;pop_up_bg;btn_alliance;结盟赢大礼;frostVeil;ally
+glisten;phrase;btn_skipout;TopPortion;ChestChamber;点击抽饰品;stormRider;ornament
+glisten;btn_pinterest;phrase;ChestChamber;TopPortion;免费试用;silverHawk;try
+phase;phase;veil;box;glow;phase;点击送礼物;obsidianShard;gift
+cabinet;caption;hintText;Panel;btn_vr;体验VR领取礼包;emberFang;vr
+道具升级；btn_upgrade;升级享福利;frostSpark;up
+L456mNoP789;anniu;BeginQuest;GameEntry;New Notice;RewardSet;点击宝箱领取奖励;shadowFlame;chest
+LmN890;wupin;Stats;MaskPiece;NameTab;额外道具奖励;thunderSpark;plus
+右侧导航；right_nav;btn_disclose;NavChoice;点击获奖励;goldenClaw;get
+PinchView;pop_up;points;RewardZone;btn_advance;领大奖;frostBite;grand
+FrontLayer;title_bar;AddWidget;CloseMark;FogBg;快来点击;emberWing;come
+VideoView;btn_collect;pop_up;points;RewardZone;收集领勋章;shadowGale;honor
+btn_collect;pop_up;RewardZone;pop_up_bg;btn_cooperate;赢宝箱;silverStorm;coop
+twinkle;text;btn_skipit;TopSection;ChestLocker;点击抽项链;obsidianGale;necklace
+btn_reddit;text;ChestLocker;TopSection;点击赢材料;frostFang;mat
+stage;stage;curtain;box;sparkle;stage;神秘装备;thunderVeil;mystery
+trunk;heading;tipLabel;Panel;btn_podlive;点击领大奖;emberClaw;claim
+btn_limit;点击享特权;shadowSpark;vip
+N567oPqR890;anniu;RestartGame;GameMenu;New Alert;RewardPack;这里赢礼包;frostShard;reboot
+NoP123;wupin;Details;Covering;Tag;投票得宝物;goldenFang;poll
+顶部菜单；top_menu;btn_unlock;MenuOption;解锁获奖励;silverSpark;key
+ZoomView;pop_up;ranks;RewardCenter;btn_proceed;领取礼包;obsidianWing;take
+BackLayer;title_bar;AddApp;CloseBadge;MistBg;点击获得惊喜套装;thunderShard;set
