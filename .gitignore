@@ -1,0 +1,4 @@
+src/logs/
+src/__pycache__/
+src/results/
+models/trained_model_250416.pt
