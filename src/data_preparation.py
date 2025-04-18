@@ -2,9 +2,9 @@ from datasets import load_dataset, DatasetDict
 from transformers import XLMRobertaTokenizer
 import csv
 
-all_labeled_data_path = r"../data/all_labeled_data.csv"
-clickbait_path = r"../data/clickbait/optimized_expanded_clickbait.txt"
-non_clickbait_path =r"../data/non-clickbait/extracted_texts.txt"
+all_labeled_data_path = r"../data/all_labeled_data_r2.csv"
+clickbait_path = r"../data/clickbait/r2/positive_list.txt"
+non_clickbait_path =r"../data/non-clickbait/negative_list.txt"
 
 def read_and_label_data():
     labeled_data = []
@@ -26,25 +26,27 @@ def read_and_label_data():
             writer.writerow(data)
 
 def preprocess_data(tokenizer_name: str = "xlm-roberta-base"):
-    # 加载原始数据（CSV文件包含text和label列）
     dataset = load_dataset("csv", data_files=all_labeled_data_path)
 
-    # 划分训练集和验证集（80%训练，20%验证）
-    split_dataset = dataset["train"].train_test_split(test_size=0.2)
+    # 划分数据集：80%训练，10%验证，10%测试
+    split_dataset = dataset["train"].train_test_split(test_size=0.2)  # 80% 训练, 20% 用作验证+测试
+    val_test_split = split_dataset["test"].train_test_split(test_size=0.5)  # 将 20% 划分为 10% 验证集和 10% 测试集
+
     dataset = DatasetDict({
         "train": split_dataset["train"],
-        "val": split_dataset["test"]
+        "val": val_test_split["train"],  # 10% 验证集
+        "test": val_test_split["test"]   # 10% 测试集
     })
 
-    # 加载XLM - Roberta的分词器
+    # 加载 XLM-Roberta 的分词器
     tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_name)
     
     def tokenize_fn(examples):
         return tokenizer(
             examples["text"],
-            padding="max_length",  # 填充到最大长度128
-            truncation=True,  # 超过128则截断
-            max_length=128  # 统一文本长度
+            padding="max_length",
+            truncation=True,
+            max_length=128 
         )
 
     # 定义分词函数（自动添加[CLS]、[SEP]、padding和截断）并应用分词处理到整个数据集

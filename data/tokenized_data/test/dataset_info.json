@@ -1,0 +1,56 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 1952211,
+  "description": "",
+  "download_checksums": {
+    "E:/Personal/Master/Grade2/2024-autumn/Multilingual-Clickbait-Classifier/src/../data/all_labeled_data_r2.csv": {
+      "num_bytes": 1680397,
+      "checksum": null
+    }
+  },
+  "download_size": 1680397,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3632608,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1952211,
+      "num_examples": 34000,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

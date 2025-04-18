@@ -1,0 +1,82 @@
+点击得手办
+点击有奖品
+快来点击吧
+速速来点击
+大奖等你拿
+快来点击吧
+这里有宝箱
+解锁新的奖品
+快来点击吧
+双倍奖励
+免费领取好物
+免费礼品
+奖品在这里
+领取金币
+点击宝箱领取奖励
+领取奖励
+领取双倍奖励
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label;点击得手办
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label;快来点击吧
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label;快来点击吧
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label;快来点击吧
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label;这里有宝箱
+crate;heading;tipLabel;Panel;btn_stream;点击得手办
+light_2;lab;btn_cancel;layTop;viewChest;bg;labBest;炫耀一下;lab;btn_share;pageGameOver
+light_2;btn_share;lab;viewChest;layTop;bg;labBest;lab;继续游戏;btn_cancel;pageGameOver
+step2;step1;mask;box04;light;step3;pageGuide;快来点击吧
+box_2;title;labTip;lay;btn_video;快来点击吧
+box_2;title;labTip;lay;btn_video;content;领取金币
+btn_receive;pic_popup_title_di1;免费领取好物;
+so3JzAjPhOFeRSC;wupin-1-5;desc;Mask;name;免费领取好物;
+btn_receive;pic_popup_title_di1;RewardLayer;pic_popup_di1;免费领取好物;
+btn_receive;pic_popup_title_di1;RewardLayer;pic_popup_di1;奖品在这里
+btn_receive;pic_popup_title_di1;快来点击吧;
+step2;step1;mask;box04;light;step3;pageGuide;领取双倍奖励
+pic_public_title_di1;Title;点击宝箱领取奖励,btn_receive;pic_popup_title_di1;
+pic_public_title_di1;Title;领取奖励,btn_receive;pic_popup_title_di1;
+step2;step1;mask;box04;light;step3;pageGuide;领取金币
+pic_public_title_di1;Title;添加桌面功能;BtnClose;pic_popup_title_di1;免费领取好物;
+设置
+声音调节
+账号绑定
+退出登录
+加载资源
+历史记录
+自动战斗开启
+进入游戏
+等待队友加入
+当前等级;经验值
+角色信息;背包;任务列表
+游戏设置;自动保存;画质调整;操作指南
+继续游戏;查看排行;好友列表;系统设置
+公会成员;申请列表
+战斗失败;再接再厉;推荐提升战力
+兑换码;请输入激活码;确认提交;兑换成功
+好友请求;消息通知;系统邮件;未读信息
+签到成功;今日已领取;连续登录奖励;
+排行榜刷新时间
+pic_public_title_di1;Title;添加桌面功能;BtnClose;pic_popup_title_di1
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive
+btn_diamond;当前得分;New Label;labTip;labIntro;lay;labRevive;lay;New Label
+usebtnlabel;couponButton;storyline Img_sz_d09
+卫生间;diyPanel;unPaintingButton btn_Node;word_cancel Node_skill tx_1;property_D2_B9 按钮_锤子
+homePanel;icon_settings;进度条;menu;help_button;菜单;screen_layout
+userProfile;settingsPage;logOutButton;开始;languageSelector
+notification;backgroundUpdate;下一关;syncingData;fileUpload;statusIndicator
+chatBox;messageInput;sendButton;fileAttachment;emojiPicker
+tabMenu;selectedItem;openPage;profileSettings;notifications
+footer;contactUs;privacyPolicy;termsConditions;subscription
+actionButton;helpLink;帮助;videoTutorial;userGuide;submitForm
+headerBar;logo;searchBox;搜索栏;menuToggle;navigationBar
+loginPage;usernameField;请输入密码;passwordField;forgotPassword;loginButton
+splashScreen;appName;loadingMessage;小心;progressIndicator
+gameModeSelector;游戏模式选择;levelSettings;difficultyOption;themeSelector
+sidebar;recentFiles;favorites;quickAccess;settingsLink
+userDashboard;taskList;任务栏;calendarView;notificationsBell
+appUpdate;patchNotes;武器箱;installButton;releaseNotes;versionInfo
+modalWindow;confirmButton;取消;cancelButton;alertMessage
+listItem;heckboxOption;descriptionText;detailsLink
+progressBar;percentageComplete;进度;uploadStatus;remainingTime
+footerLinks;aboutUs;contactPage;feedbackForm;socialMedia
+searchResults;filterOptions;游戏排行;sortBy;paginationControl
+fileManaer;directoryView;searchBox;renameButton;moveFile
