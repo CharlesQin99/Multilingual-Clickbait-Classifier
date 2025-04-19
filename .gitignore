@@ -2,4 +2,5 @@ src/logs/
 src/__pycache__/
 src/results/
 data/tokenized_data/
-models/trained_model_250416.pt
+models/*.pt
+.gitattributes
