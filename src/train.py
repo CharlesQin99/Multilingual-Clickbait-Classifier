@@ -120,7 +120,8 @@ def train_model():
         epoch_time = time.time() - epoch_start
         print(f"[Epoch {epoch + 1}] Duration: {epoch_time:.2f} seconds")
 
-        # 保存最优模型 + 早停策略        if val_loss < best_val_loss:
+        # 保存最优模型 + 早停策略        
+        if val_loss < best_val_loss:
             best_val_loss = val_loss
             patience_counter = 0
             save_path = f"../models/trained_model_{DATE}.pt"

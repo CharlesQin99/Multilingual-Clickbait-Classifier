@@ -2,7 +2,7 @@ import torch
 from transformers import XLMRobertaForSequenceClassification, XLMRobertaTokenizer
 
 
-model_path = "../models/trained_model_250418.pt"  # 模型路径
+model_path = "../models/trained_model_250419.pt"  # 模型路径
 file_path = "../data/test/test_cases.txt"
 output_file_path = "../data/test/test_results.txt"  # 修改为正确的输出文件路径
 
