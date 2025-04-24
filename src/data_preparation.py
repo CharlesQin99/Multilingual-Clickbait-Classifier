@@ -3,8 +3,12 @@ from transformers import XLMRobertaTokenizer
 import csv
 
 all_labeled_data_path = r"../data/all_labeled_data_r2.csv"
-clickbait_path = r"../data/clickbait/r2/positive_list.txt"
-non_clickbait_path =r"../data/non-clickbait/negative_list.txt"
+
+# clickbait_path = r"../data/clickbait/r2/positive_list.txt"
+# non_clickbait_path =r"../data/non-clickbait/negative_list.txt"
+
+clickbait_path = r"../data/clickbait/r2/positive_list_translated.txt"
+non_clickbait_path =r"../data/non-clickbait/negative_list_translated.txt"
 
 def read_and_label_data():
     labeled_data = []
