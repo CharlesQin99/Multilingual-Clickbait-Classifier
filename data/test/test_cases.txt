@@ -80,3 +80,65 @@ progressBar;percentageComplete;进度;uploadStatus;remainingTime
 footerLinks;aboutUs;contactPage;feedbackForm;socialMedia
 searchResults;filterOptions;游戏排行;sortBy;paginationControl
 fileManaer;directoryView;searchBox;renameButton;moveFile
+
+Click to claim your reward now
+Big prize waiting for you, tap here
+Double rewards;limited time only
+Unlock the surprise chest
+Click now to get the exclusive gift
+Tap the button to receive diamonds
+Reward available, don’t miss out
+Free items inside, click to collect
+Get your prize now, no cost
+Huge bonus inside the treasure box
+Click here for free coins
+Double the fun, double the rewards
+Grab your gift before it’s gone
+Special reward inside this box
+Tap to unlock your surprise package
+btn_reward;currentScore;Click to win big;labIntro;treasureHint;claimNow;popupGift
+popupButton;Double rewards inside!;labNew;scoreLabel;hurryUp;specialBox
+spinWheel;freeGift;Click here for prize;rewardTag;startButton;bonusAvailable
+watchAdButton;Tap now to unlock reward;exitBtn;goldAmount;doubleBonus;labFinal
+prizeIcon;Unlock surprise;btn_tap;offerEndsSoon;giftClaim;rewardAlert
+chestPopup;labGetReward;Don’t miss out!;bonusLabel;newBadge;btnClickHere
+rewardScene;Click to collect now;popupTreasure;score100;continueBtn;scoreDisplay
+dailyBonus;claimFreeItem;Hurry up and tap;lootIcon;exitOption;doubleGold
+flashSale;Free prize! Tap here;countdownLabel;rewardTimer;extraGift;startNow
+Tap now!;claimDiamond;gameOverPage;bonusRound;offerButton;specialAlert
+Tap the box to win;rareItemPopup;labNew;btn_tap;onlyToday;rewardFlag
+Click here now;surpriseReward;nextLevel;getDoubleReward;exitAd;giftTime
+btn_get;Exclusive offer inside!;btn_ad;scoreIndicator;winNow;popupReward
+Watch ad to unlock;btn_exit;doubleReward;goldBag;Tap and claim;bonusChest
+labIntro;Claim free gift now;specialOfferBtn;adRewardBox;popupDiamond;score+100
+
+Settings;
+Volume Control;
+User Info;Log Out
+Game Started;Waiting for players,searchBox;renameButton
+Profile;Inventory;Quest Log
+Enable Auto Battle;Adjust Graphics Quality
+Friends List;Rankings;Game Settings
+Guild Members;Application List
+Battle Lost;Try Again;Improve Strength
+System Messages;Friend Requests
+Daily Sign-in;Rewards Collected
+Patch Notes;Version Info;Install Button
+Next Level;Syncing Data;Upload Status
+Search Results;Filter Options;Sort By
+Privacy Policy;Contact Support
+Notification Settings;Task Progress;Calendar View
+btn_start;loadingBar;titleScreen;volumeToggle;languageSelector;loginButton
+userProfile;inventoryPanel;questLog;settingsButton;helpMenu;logoutOption
+battleResult;retryButton;reviveOption;scoreBoard;sharePanel;watchAdButton
+chatWindow;emojiPanel;sendButton;friendList;messageInput;notificationBell
+settingsPage;audioControl;displaySettings;touchSensitivity;feedbackForm
+eventBanner;claimBonus;timerDisplay;exitArea;specialOfferTag;rewardList
+giftBoxIcon;spinWheelButton;collectCoins;levelDisplay;taskProgressBar;nextButton
+gameSettings;graphicQuality;frameRateControl;languageDropdown;resetTutorial
+loadingScreen;tipMessage;progressIndicator;gameLogo;networkStatus;versionInfo
+homeButton;stageSelect;challengeMode;rewardClaimed;popupNotice;backButton
+inventoryPanel;weaponSlot;armorSlot;itemDetails;discardButton;upgradePrompt
+dailyCheckIn;rewardStatus;calendarPanel;missedDayWarning;claimButton;closeOverlay
+leaderboardView;topPlayers;rankingList;refreshIcon;playerStats;reportButton
+profilePage;accountSettings;passwordChange;bindEmail;privacySettings;aboutSection
